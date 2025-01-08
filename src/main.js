@@ -6,3 +6,5 @@ console.log('Welcome to Vite + JS + Webflow!')
 
 createBadge()
 animateTitle()
+
+console.log('This page was updated')
